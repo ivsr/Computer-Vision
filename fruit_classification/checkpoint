@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ivsr/CV_Group/fruits_tensorflow/my_model-800"
+all_model_checkpoint_paths: "/home/ivsr/CV_Group/fruits_tensorflow/my_model-800"
